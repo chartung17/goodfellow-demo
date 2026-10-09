@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "jsx": "react-jsx",
+    "strict": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    // As in shadcn/ui projects: blocks installed from block registries import from "@/components/ui/…".
+    "paths": { "@/*": ["./*"] }
+  },
+  "include": ["goodfellow.config.tsx", "blocks", "components", "lib", "hooks"]
+}

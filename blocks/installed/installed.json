@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "blocks": {
+    "shadcn-call-to-action": {
+      "version": "0.1.0",
+      "category": "Page sections",
+      "entry": "blocks/installed/shadcn-call-to-action/block.tsx",
+      "files": {
+        "blocks/installed/shadcn-call-to-action/block.tsx": "eaa018c70100d3bab4cc792a5ed6da5756ded6a329f6b80dd3379fdb1f8f297e",
+        "components/ui/button.tsx": "79dd6f75f8136394442202d6b8b922fb269eaad0a5dba579397c9d5b41f893bb",
+        "components/ui/card.tsx": "ef8305b12c3112dab42a4708b41b1ebcc042fa5ab4c20f039da8d45b09ed5059"
+      },
+      "source": "@goodfellow/shadcn-call-to-action",
+      "title": "Call to action"
+    },
+    "shadcn-cards": {
+      "version": "0.1.0",
+      "category": "Page sections",
+      "entry": "blocks/installed/shadcn-cards/block.tsx",
+      "files": {
+        "blocks/installed/shadcn-cards/block.tsx": "3edd3a07cf24aca9ce00aa7ffbca3543fbea3f7f05df8dd0455a8c7047c7ba5b",
+        "components/ui/button.tsx": "79dd6f75f8136394442202d6b8b922fb269eaad0a5dba579397c9d5b41f893bb",
+        "components/ui/card.tsx": "ef8305b12c3112dab42a4708b41b1ebcc042fa5ab4c20f039da8d45b09ed5059"
+      },
+      "source": "@goodfellow/shadcn-cards",
+      "title": "Cards"
+    },
+    "shadcn-faq": {
+      "version": "0.1.0",
+      "category": "Interactive",
+      "entry": "blocks/installed/shadcn-faq/block.tsx",
+      "files": {
+        "blocks/installed/shadcn-faq/block.tsx": "19ee155c04435adc0e58dd7cb6c7fd5a79b3804ca603305a6ebca56a507dfc40",
+        "blocks/installed/shadcn-faq/faq-list.tsx": "6552f2d9a806f1b26ab85b15d3f909da9b37383e248600c2c262f79daab41c49",
+        "components/ui/accordion.tsx": "99de242681eb43121969db02bbb102aeeb1865ef52c7635672508a58c5429085"
+      },
+      "source": "@goodfellow/shadcn-faq",
+      "title": "FAQ"
+    },
+    "shadcn-hero": {
+      "version": "0.1.0",
+      "category": "Page sections",
+      "entry": "blocks/installed/shadcn-hero/block.tsx",
+      "files": {
+        "blocks/installed/shadcn-hero/block.tsx": "0e4d687e65e521f921bc1e7d423a5d414b9d2a65ae83ab85d19e1ae8324ba62e",
+        "components/ui/button.tsx": "79dd6f75f8136394442202d6b8b922fb269eaad0a5dba579397c9d5b41f893bb"
+      },
+      "source": "@goodfellow/shadcn-hero",
+      "title": "Hero"
+    },
+    "shadcn-notice": {
+      "version": "0.1.0",
+      "category": "Page sections",
+      "entry": "blocks/installed/shadcn-notice/block.tsx",
+      "files": {
+        "blocks/installed/shadcn-notice/block.tsx": "82ee15f4637997445b8129e1a048e16e8817fca3fe3f665e312de9a111aac43a",
+        "components/ui/alert.tsx": "d03dcae5cdb63c381c1144ca9a0c49ba0e46466967d7deb94662034042acb034"
+      },
+      "source": "@goodfellow/shadcn-notice",
+      "title": "Notice"
+    },
+    "shadcn-tabs": {
+      "version": "0.1.0",
+      "category": "Interactive",
+      "entry": "blocks/installed/shadcn-tabs/block.tsx",
+      "files": {
+        "blocks/installed/shadcn-tabs/block.tsx": "1ed25b16e87626c2377c47ba59da2a9675b3a93ea9d414c8ec24af1c126b394a",
+        "blocks/installed/shadcn-tabs/tabs-view.tsx": "9e992b490cd9e5e8e69ceba1f491038f83c0a56a528023409840f99375ea91eb",
+        "components/ui/tabs.tsx": "e1df6e2f95ece373ca909c1d54b8ba8cf4c47dd425c1784bbb9a01c38dd0936b"
+      },
+      "source": "@goodfellow/shadcn-tabs",
+      "title": "Tabs"
+    },
+    "shadcn-testimonials": {
+      "version": "0.1.0",
+      "category": "Page sections",
+      "entry": "blocks/installed/shadcn-testimonials/block.tsx",
+      "files": {
+        "blocks/installed/shadcn-testimonials/block.tsx": "e8a4656fd9af8992f590acddbc6e76aa8d952c83c24ba65c381920192dd80711",
+        "components/ui/card.tsx": "ef8305b12c3112dab42a4708b41b1ebcc042fa5ab4c20f039da8d45b09ed5059"
+      },
+      "source": "@goodfellow/shadcn-testimonials",
+      "title": "Testimonials"
+    }
+  }
+}
