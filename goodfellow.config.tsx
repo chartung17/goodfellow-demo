@@ -21,4 +21,6 @@ export default defineConfig({
   // See README.md for how to set up sign-in.
   backend: github({ repo: "chartung17/goodfellow-demo" }),
   // backend: gitlab({ project: "your-name/your-site", clientId: "your-application-id" }),
+
+  demo: true,
 });
