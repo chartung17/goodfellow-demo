@@ -1,6 +1,18 @@
 {
   "version": 1,
   "blocks": {
+    "custom-html": {
+      "version": "0.1.0",
+      "category": "Advanced",
+      "entry": "blocks/installed/custom-html/block.tsx",
+      "files": {
+        "blocks/installed/custom-html/block.tsx": "81cf4dc32e22977b45304f5ff13501ba2e57ca5d5e0e56578d29576c4d0cb766",
+        "blocks/installed/custom-html/html-preview.tsx": "4a2a94e2ba6875ec8d3240e85938c6ca084536412c4e4e039400888c37254553",
+        "blocks/installed/custom-html/html-scripts.tsx": "72e0e6e6bb20ee49ee49abe8ea9c434ff180e5bcd0f65e83494a8eb2cfbe3c9a"
+      },
+      "source": "@goodfellow/custom-html",
+      "title": "Custom HTML"
+    },
     "shadcn-call-to-action": {
       "version": "0.1.0",
       "category": "Page sections",
@@ -24,6 +36,19 @@
       },
       "source": "@goodfellow/shadcn-cards",
       "title": "Cards"
+    },
+    "shadcn-carousel": {
+      "version": "0.1.0",
+      "category": "Interactive",
+      "entry": "blocks/installed/shadcn-carousel/block.tsx",
+      "files": {
+        "blocks/installed/shadcn-carousel/block.tsx": "042e8374ee732b83ddb74992a933d1ad0c11923b5001a49e4bacd10b9a066ec8",
+        "blocks/installed/shadcn-carousel/image-carousel.tsx": "7f9750f84675bf5d121130577da042532504d0ab63d26aeeb9fcc10c51b8a516",
+        "components/ui/button.tsx": "79dd6f75f8136394442202d6b8b922fb269eaad0a5dba579397c9d5b41f893bb",
+        "components/ui/carousel.tsx": "96ce291acf4e2e489849fcefef97d531b5c8fd7ec67cce907f7c392b5025c9a3"
+      },
+      "source": "@goodfellow/shadcn-carousel",
+      "title": "Image carousel"
     },
     "shadcn-faq": {
       "version": "0.1.0",
