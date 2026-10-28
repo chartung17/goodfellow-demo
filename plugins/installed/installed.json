@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "plugins": {
+    "goodfellow-plugin-gutenberg": {
+      "goodfellow": ">=0.6.0 <1.0.0",
+      "installed": "2026-10-28",
+      "manifest": {
+        "version": 1,
+        "admin": true,
+        "description": "Edit pages in WordPress's block editor, Gutenberg, in place of Puck.",
+        "editor": {
+          "kinds": [
+            "page",
+            "header",
+            "footer",
+            "template"
+          ],
+          "title": "Gutenberg"
+        },
+        "permissions": {},
+        "title": "Gutenberg"
+      },
+      "release": "0.1.0"
+    }
+  }
+}
