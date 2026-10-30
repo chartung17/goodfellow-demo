@@ -1,5 +1,7 @@
 # St. Joseph Parish (example)
 
+> **Goodfellow's demo has moved** to [goodfellow-cms.github.io/goodfellow-cms/demo/](https://goodfellow-cms.github.io/goodfellow-cms/demo/), where Goodfellow's documentation builds it with each release from [the parish example](https://github.com/goodfellow-cms/goodfellow-cms/tree/master/examples/parish). This repository now only publishes [`redirect/`](redirect/), which sends every address of the demo that was here, at goodfellow-cms.github.io/goodfellow-demo/, to the same address there. The site below is no longer built or updated.
+
 An example parish website built with [Goodfellow](https://github.com/goodfellow-cms/goodfellow-cms). **St. Joseph Parish is made up**: its name, address, phone number, staff, history, Mass times and events are invented, and the pictures are simple drawings. Replace them all with your own before putting the site online.
 
 Start a site from this example with `npm create goodfellow@latest my-parish -- --template parish`.
