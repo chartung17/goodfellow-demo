@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>Goodfellow's demo has moved</title>
+    <link rel="canonical" href="https://goodfellow-cms.github.io/goodfellow-cms/demo/" />
+    <!-- The same address in the demo's new home, with its query and #… part, which the admin panel's screens are. -->
+    <script>
+      var old = "/goodfellow-demo";
+      var path = location.pathname.indexOf(old) === 0 ? location.pathname.slice(old.length) : "";
+      location.replace("https://goodfellow-cms.github.io/goodfellow-cms/demo" + (path || "/") + location.search + location.hash);
+    </script>
+    <noscript><meta http-equiv="refresh" content="0; url=https://goodfellow-cms.github.io/goodfellow-cms/demo/" /></noscript>
+  </head>
+  <body>
+    <p>Goodfellow's demo has moved to <a href="https://goodfellow-cms.github.io/goodfellow-cms/demo/">goodfellow-cms.github.io/goodfellow-cms/demo/</a>.</p>
+  </body>
+</html>
